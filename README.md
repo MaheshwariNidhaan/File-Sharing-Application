@@ -9,6 +9,8 @@
 
 This File Sharing Application is built using the MERN stack. It allows users to upload an image file and generate a shareable link. When someone clicks on the link, they can download the file to their local machine.
 
+You can access the deployed application [here](https://file-sharing-application-theta.vercel.app/).
+
 ## Features
 
 - **Upload Files:** Users can upload image files from their machine.
